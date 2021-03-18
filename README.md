@@ -8,8 +8,8 @@ No additional requirements are necessary to run the program.
 
 # User Manual
 ## Step 1 - Select 'Download ZIP' from the GitHub link above
-
+![image of zip](https://github.com/hansonbriley/3430-extra-credit/blob/main/images/zip.jpg)
 ## Step 2 - Extract contents to a folder
 
 ## Step 3 - Navigate to folder and run with 'python main.py'
-
+![navigate and run](https://github.com/hansonbriley/3430-extra-credit/blob/main/images/nav-run.JPG)
