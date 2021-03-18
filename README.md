@@ -1,7 +1,7 @@
 # 3430-extra-credit
 
 ## Description
-The goal of this program is to place the least amount of cell base stations where each house is within four miles of one station to allow cell service. The program generates a new random list of 30 numbers to represent each house and it's distance from the easten endpoint. 
+The goal of this program is to place the least amount of cell base stations where each house is within four miles of one station to allow cell service. The program generates a new random list of 30 numbers to represent each house and it's distance from the easten endpoint. By working with randomly generated distances the algorithm will produce different amounts for the minimum number of bases needed. 
 
 ## Requirements
 No additional requirements are necessary to run the program. 
